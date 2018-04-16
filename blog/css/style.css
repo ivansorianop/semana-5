@@ -1,0 +1,92 @@
+.container{
+    width: 1400px;
+    height: 800px;
+
+}
+body{
+    background: #003333;
+}
+header{
+    height: 170px;
+    font-family: impact;
+    font-size: 45;
+    position: fixed;
+    background-color: #FF6633;
+    border-style: solid;
+    border-color: #003333;
+    width: 100%;
+    
+}
+header h1{
+    margin-top: 50px;
+    font-size: 70px;
+    color: #003333;
+
+}
+header ul{        
+    font-family: impact;
+
+}
+.derp{
+    float: right;
+    padding: 13px 14px;
+    font-size: 20px;
+
+}
+
+a:link, a:visited {
+    background-color: #FFCC99;
+    color: black;
+    padding: 13px 15px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #FF6633;
+}
+aside {
+    float: left;
+    max-width: 28%;
+    font-size: 20px;
+    text-align: left;
+    width: 272px;
+    font-family: Arial;
+    background-color: #FFCC99;
+    margin-top: 220px;
+    height: 980px;
+
+
+}
+aside ul{
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+section{
+    padding: 35px;
+    font-size: 30;
+    background-color: #FFCC99;
+    float: right;
+    max-width: 72.5%;
+    margin-top: 220px;
+}
+p{
+    font-family: Courier;
+    font-style: italic;
+}
+h4{
+    font-family: Century;
+}
+h2{
+    font-family: Century;
+}
+footer{
+    background-color: #FF6633;
+    color: white;
+    float: left;
+}
+
+
+    
